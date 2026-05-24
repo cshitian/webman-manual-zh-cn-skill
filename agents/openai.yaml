@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "webman manual zh-cn"
+  short_description: "Search the webman v2 Chinese manual for framework usage answers."
+  default_prompt: "Use the webman Chinese manual to answer installation, routing, database, plugin, or upgrade questions."
