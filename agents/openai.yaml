@@ -1,4 +1,4 @@
 ﻿interface:
   display_name: "webman manual zh-cn"
-  short_description: "Search the webman v2 Chinese manual for framework usage answers."
-  default_prompt: "Use the webman Chinese manual to answer installation, routing, database, plugin, or upgrade questions."
+  short_description: "webman v2 Chinese manual, CLI command reference, and code templates."
+  default_prompt: "Use the webman skill for framework documentation, CLI operations (start/reload/restart), troubleshooting (class not found/port conflict), and code templates (controller/model/middleware/WebSocket/process)."
